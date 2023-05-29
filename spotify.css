@@ -57,7 +57,7 @@ a:hover{
     /* background-repeat: no-repeat; */
     background-size: 100% 200%;
     background-position-x: right;
-    /* background-image: url("../spotify\ pic2.svg"); */
+    /* background-image: url("spotify\ pic2.svg"); */
     display: flex;
     /* align-items: center; */
 }
@@ -185,7 +185,7 @@ a:hover{
     background-color: rgb(211, 88, 211);
     background-size: 100% 200%;
     background-position-y:-100 ;
-    background-image: url("../bubbles-mobile.svg");
+    background-image: url("bubbles-mobile.svg");
 
 }
 #i12{
@@ -258,7 +258,7 @@ hr{
     height: 400px;
      /* background-color: rgb(245, 9, 245); */
      background-color: rgb(211, 88, 211);
-     background-image: url("../project\ bubble.svg");
+     background-image: url("project\ bubble.svg");
      background-size: 100% 200%;
      /* background-size: cover; */
      background-position-x: 50px;
@@ -356,7 +356,7 @@ hr{
     margin-top: 14px;
     justify-content: center;
    
-    /* background-image: url("../spotify\ icon1.svg"); */
+    /* background-image: url("spotify\ icon1.svg"); */
     /* background-size: 100% 50%;
     background-position-y: 15px;
     /* background-color: rgb(80, 77, 74); */
