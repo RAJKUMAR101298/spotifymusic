@@ -1,0 +1,414 @@
+*{
+    margin: 0px;
+}
+#first{
+     /* border: 1px solid black; */
+    width: 100%;
+    height: 75px;
+    display: flex;
+    background-color: black; 
+    
+}
+#icon{
+    align-items: center;
+    display: flex;
+    flex-basis: 100px;
+}
+#i1{
+    font-size: x-large;
+}
+#i2{
+    flex-basis: 100px;
+}
+#a4{
+    /* flex-basis: 100px; */
+}
+.a2{
+    /* border: 1px solid red; */
+    width: 200px;
+    text-align: center;
+    line-height: 65px;
+    font-family: sans-serif;
+    font-weight: 700;
+    color: white;
+}
+#grow2{
+    flex-basis: 1000px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+a:hover{
+    color: green;
+}
+
+
+/* section 2 */
+#second{
+    /* border: 2px solid blue; */
+    /* width: 100%; */
+    height: 540px;
+    background: linear-gradient( to bottom right, red,rgb(13, 216, 64));
+      /* background-color: rgb(211, 88, 211); */
+    /* background-color: rgb(245, 9, 245); */
+    /* background-position: center ; */
+    /* background-repeat: no-repeat; */
+    background-size: 100% 200%;
+    background-position-x: right;
+    /* background-image: url("../spotify\ pic2.svg"); */
+    display: flex;
+    /* align-items: center; */
+}
+
+.c1,.c2{
+    /* border: 1px solid yellow; */
+    height: 500px;
+    width: 600px;
+}
+#a3{
+    margin-left: 181px;
+    margin-top: 90px;
+    /* border: 1px solid black; */
+    width: 260px;
+    height: 450px;
+    background-color: white;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    
+}
+
+#i5{
+    position: absolute;
+    top: 220px;
+    left: 187px;
+}
+#i6{
+    /* border: 1px solid black; */
+    width: 40px;
+    background-color: black;
+    height: 3.5px;
+    border-radius: 50px;
+    position: absolute;
+    top: 193px;
+    left: 290px;
+}
+.c2{
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+}
+#i7{
+    /* margin-top: 160px; */
+    /* align-items: center; */
+    font-size: 60px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 700;
+    width: 650px;
+}
+#i9{
+    /* border: 1px solid white; */
+    width: 200px;
+    height: 45px;
+    text-align: center;
+    border-radius: 50px;
+    line-height:45px;
+    background-color: white;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+#i9:hover{
+    transform: scale(1.1);
+    /* font-style: italic */
+    font-weight: 600;
+}
+
+
+/* third section */
+
+#third{
+    /* border: 1px solid green; */
+    width: 100%;
+    height: 500px;
+}
+
+#i10{
+    /* border: 1px solid black; */
+  font-size: 40px;
+  text-align: center;
+  line-height: 120px;
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+#i11{
+    /* border: 1px solid green; */
+    width: 100%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    /* margin-left: 150px; */
+    /* margin-right: 150px; */
+}
+.c3{
+    /* border: 1px solid black; */
+    width: 300px;
+    height: 300px;
+    /* display: flex; */
+    flex-direction: column;text-align: center;
+
+    
+}
+
+.c4{
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+}
+.c5{
+    font-family: sans-serif;
+    font-size: medium;
+    padding-left: 30px;
+    padding: 10px;
+     padding-right: 30px;
+
+}
+
+#fourth{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    /* background-color: rgb(245, 9, 245); */
+    background-color: rgb(211, 88, 211);
+    background-size: 100% 200%;
+    background-position-y:-100 ;
+    background-image: url("../bubbles-mobile.svg");
+
+}
+#i12{
+    /* border: 1px solid black; */
+    height: 460px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    color: white;
+
+}
+
+#fifth{
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 600px;
+}
+#i14{
+    /* border: 1px solid black; */
+    height: 200px;
+    font-weight: 600;
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center; 
+    display: flex;
+    justify-content: center;
+     align-items: center; 
+}  
+
+
+
+#i13{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.c6{
+    /* border: 1px solid red; */
+    width: 1100px;
+    height: 90px;
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 20px;
+    justify-content: space-between;
+}
+.c6:hover{
+    background-color:rgb(235, 232, 232);
+}
+hr{
+    color: rgb(4, 4, 160);
+    
+}
+
+
+
+
+/* sixth section */
+
+#sixth{
+    /* border: 1px solid black; */
+    height: 400px;
+     /* background-color: rgb(245, 9, 245); */
+     background-color: rgb(211, 88, 211);
+     background-image: url("../project\ bubble.svg");
+     background-size: 100% 200%;
+     /* background-size: cover; */
+     background-position-x: 50px;
+     background-position-y:-200px ;
+     background-repeat: no-repeat;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+
+#i15{
+    /* border: 1px solid black; */
+    width: 900px;
+    /* height: 100px; */
+    font-size: 69px;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    
+
+}
+#i16{
+    /* border: 1px solid black; */
+    font-weight: 500;
+    width: 200px;
+    height: 50px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    font-family: sans-serif;
+    background-color: white;
+}#i16:hover{
+    transform: scale(1.1);
+}
+
+#ninth{
+    border: 1px solid black;
+    height: 550px;
+    background-color: black;
+    
+}
+#i19{
+    display: flex;
+    margin-top: 90px;
+}
+
+.c9{
+    border: 1px solid black;
+    width: 190px;
+    height: 360px;
+}
+#i20{
+    text-align: end;
+    flex-basis: 160px;
+    color: white;
+}
+
+#i21{
+    font-weight: 900;
+    font-family: sans-serif;
+    font-size: x-large;
+    line-height: 45px;
+    color: white;
+    
+    
+}
+.c10{
+    font-size: 15px;
+    font-family: sans-serif;
+    color: aliceblue;
+    font-weight: 600;
+    padding-top: 20px;
+    padding-bottom: 14px;
+    letter-spacing: 1px;
+    
+    
+}
+.c11{
+    line-height: 40px;
+    font-size: larger;
+    font-weight: 600;
+}
+#icon2{
+    border-radius: 50px;
+    background-size: 100% 50%;
+}
+#icon2:hover{
+    background-color: green;
+}
+#icon1{
+    display: flex;
+    margin-top: 14px;
+    justify-content: center;
+   
+    /* background-image: url("../spotify\ icon1.svg"); */
+    /* background-size: 100% 50%;
+    background-position-y: 15px;
+    /* background-color: rgb(80, 77, 74); */
+    /* background-size: contain; */
+    /* background-repeat: no-repeat; */ 
+}
+.c12{
+    /* border: 1px solid black; */
+    background-color: gray;
+    border-radius: 50px;
+    height: 60px;
+    width: 60px;
+    
+}
+#i23{
+    display: flex;
+    flex-basis: 250px;
+    justify-content: space-evenly;
+    
+}
+#i22{
+    flex-basis: 100px;
+}
+
+#i24{
+    /* border: 1px solid green ; */
+    Height: 40px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+    width: 95%;
+    text-align: end;
+    font-size: 14px;
+}
+
+#i25{
+    /* border: 1px solid black; */
+    display: flex;
+    margin-left: 60px;
+    /* width: 120px; */
+
+}
+.c13{
+    /* border: 1px solid black; */
+    font-size: 15px;
+    width: 120px;
+    text-align: center;
+}
+#i26{
+    flex-basis: 500px;
+}
+#i29{
+    font-size: 15px;
+    color: white;
+}
